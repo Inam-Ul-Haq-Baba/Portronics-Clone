@@ -1,9 +1,12 @@
 {
+  "homepage": "https://Inam-Ul-Haq-Baba/github.io/Portronics-Clone-Tailwind",
   "name": "portronics-clone",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "vite"
   },
   "keywords": [],
@@ -11,6 +14,7 @@
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.27",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.19",
     "vite": "^7.3.1"
