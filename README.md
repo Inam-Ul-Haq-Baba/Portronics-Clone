@@ -40,18 +40,21 @@ https://inam-ul-haq-baba.github.io/Portronics-Clone-Tailwind/
 
 
 *Mobile View
+
 <img width="282" height="473" alt="Mobile_View" src="https://github.com/user-attachments/assets/5fbf178f-b583-4bec-b473-a61ea5475565" />
 
 
 
 
 *Tablet View
+
 <img width="384" height="477" alt="Tab_View" src="https://github.com/user-attachments/assets/1d2711dd-8479-416c-a9df-11a05a4a674e" />
 
 
 
 
 *Full Sized Desktop ScreenShot
+
 <img width="2904" height="5604" alt="Full_Sized_Screenshot" src="https://github.com/user-attachments/assets/03f5dd8a-3658-4ead-9d43-a7f182c3d9e1" />
 
 ---
