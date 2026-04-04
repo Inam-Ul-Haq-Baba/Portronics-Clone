@@ -7,7 +7,7 @@ This project replicates a modern e-commerce UI with a clean design and a mobile-
 
 ## 🌐 Live Demo
 
-https://Inam-Ul-Haq-Baba.github.io/Portronics-Clone-Tailwind
+https://inam-ul-haq-baba.github.io/Portronics-Clone-Tailwind/
 
 ---
 
